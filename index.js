@@ -129,5 +129,4 @@ const perguntas = [
     
     //coloca a pergunta na tela
     quiz.appendChild(quizItem)
-  }
-  
+  }  
